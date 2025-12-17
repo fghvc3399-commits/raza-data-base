@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DB Service PK - Enhanced</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- FONT AWESOME -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <!-- ✅ CSS (ABSOLUTE PATH) -->
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+
+<div class="container">
+  <h1 class="header-center">DB Service PK</h1>
+</div>
+
+<!-- ✅ JS (ABSOLUTE PATH + DEFER) -->
+<script src="/script.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+.container {
+  padding: 40px;
+}
+
+.header-center {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  color: #00ffcc;
+}
